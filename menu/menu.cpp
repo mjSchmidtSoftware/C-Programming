@@ -9,7 +9,7 @@ void convertF();
 int main()
 {
         cout<<endl;
-        cout<<"/////////////////////////////////////"<<endl;
+        cout<<"//////////////////////////////////////"<<endl;
 	int pick;
 	bool exit = false;
 
@@ -34,7 +34,7 @@ int main()
 	}while(exit != true);
 
 	cout<<"END PROGRAM"<<endl;
-	cout<<"/////////////////////////////////////"<<endl;
+	cout<<"//////////////////////////////////////"<<endl;
         cout<<endl;
 	return 0;
 }
